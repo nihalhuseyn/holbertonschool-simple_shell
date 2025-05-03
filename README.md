@@ -1,2 +1,3 @@
 # holbertonschool-simple_shell
-bn
+
+This project are written by Allahsukur Gulmaliyev  and Nihal Huseynzade for the 1st trimester.
